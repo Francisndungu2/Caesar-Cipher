@@ -7,5 +7,9 @@ public class CaesarCipher{
         Scanner sc=new Scanner(System.in);
         int shift,i,n;
         String str;
+        StringBuilder str1= new StringBuilder();
+        StringBuilder str2= new StringBuilder();
+        System.out.println("Enter the plaintext");
+
     }
 }
