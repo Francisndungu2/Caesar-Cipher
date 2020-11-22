@@ -10,6 +10,7 @@ public class CaesarCipher{
         StringBuilder str1= new StringBuilder();
         StringBuilder str2= new StringBuilder();
         System.out.println("Enter the plaintext");
-
+        str=sc.nextLine();
+        str=str.toLowerCase();
     }
 }
