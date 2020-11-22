@@ -23,6 +23,23 @@ public class CaesarCipher{
         {
             if(Character.isLetter(ch1[i])) {
                 ch3=(char)(((int)ch1[i]+shift-97)%26+97);
+                str1.append(ch3);
+            }
+            else if(ch1[i]==' ')
+
+            {
+                str1.append(ch1[i]);
+            }
+        }
+        System.out.println(str1);
+
+        System.out.println();
+        System.out.println("Decrypted text is");
+        char[] ch2 = str1.toString().toCharArray();
+        for(i=0;i<str1.length();i++)
+        {
+
+    }
             }
 
     }
