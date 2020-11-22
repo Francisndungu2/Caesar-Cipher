@@ -19,6 +19,9 @@ public class CaesarCipher{
         shift=sc.nextInt();
         System.out.println();
         System.out.println("Encrypted text is");
+        for(i=0;i<n;i++)
+        {
+            if(Character.isLetter(ch1[i])) {
 
     }
 }
