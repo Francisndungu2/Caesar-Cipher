@@ -12,5 +12,7 @@ public class CaesarCipher{
         System.out.println("Enter the plaintext");
         str=sc.nextLine();
         str=str.toLowerCase();
+        n=str.length();
+        char[] ch1 =str.toCharArray();
     }
 }
