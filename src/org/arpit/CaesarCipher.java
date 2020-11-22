@@ -22,6 +22,8 @@ public class CaesarCipher{
         for(i=0;i<n;i++)
         {
             if(Character.isLetter(ch1[i])) {
+                ch3=(char)(((int)ch1[i]+shift-97)%26+97);
+            }
 
     }
 }
