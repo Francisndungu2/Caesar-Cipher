@@ -7,17 +7,17 @@
 - The app can also decrypt back the encrypted text using the same shift  key.
 ## Technologies used
 1. Java
-## Contribution
-Visit the github repo on https://github.com/Francisndungu2/Ceaser-cypher
-
-- Project is only for CLI interaction
-
-- Git clone the repo
-- Run it in your computer 
-- Make some changes and commit
 2. Intellij Idea text editor
 3. Gradle
 4. Command Line interface
+
+## Contribution
+Visit the github repo on https://github.com/Francisndungu2/Ceaser-cypher
+- Git clone the repo
+- Run it in your computer 
+- Make some changes and commit
+- Project is only for CLI interaction
+
 ## Licence
 Mit Licence Francisndungu
 Mit Licence Francisndungu 2020
